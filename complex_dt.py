@@ -20,5 +20,4 @@ print(data_3)
 data_4=10/5j
 print(data_4)
 
-data_5=10//5j
-print(data_5)
+
